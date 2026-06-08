@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background rounded square -->
+  <rect width="512" height="512" rx="96" ry="96" fill="#0f1c3a"/>
+
+  <!-- Bar chart accent (bottom-right area) -->
+  <rect x="300" y="310" width="36" height="90" rx="6" fill="#0084ff" opacity="0.9"/>
+  <rect x="348" y="270" width="36" height="130" rx="6" fill="#319AFF" opacity="0.9"/>
+  <rect x="396" y="240" width="36" height="160" rx="6" fill="#60B1FF" opacity="0.85"/>
+
+  <!-- "HR" text mark -->
+  <!-- H -->
+  <rect x="68" y="148" width="32" height="216" rx="8" fill="white"/>
+  <rect x="68" y="244" width="100" height="30" rx="6" fill="white"/>
+  <rect x="136" y="148" width="32" height="216" rx="8" fill="white"/>
+
+  <!-- R -->
+  <rect x="204" y="148" width="32" height="216" rx="8" fill="white"/>
+  <path d="M236 148 Q330 148 330 215 Q330 270 270 282 L330 364" stroke="white" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <!-- Accent line under logo -->
+  <rect x="68" y="392" width="376" height="6" rx="3" fill="#0084ff" opacity="0.6"/>
+</svg>
